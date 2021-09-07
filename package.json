@@ -15,5 +15,13 @@
 	"license": "ISC",
 	"dependencies": {
 		"node-fetch": "^3.0.0"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/LeoMacherla/vatsim-api.git"
+	},
+	"bugs": {
+		"url": "https://github.com/LeoMacherla/vatsim-api/issues"
+	},
+	"homepage": "https://github.com/LeoMacherla/vatsim-api#readme"
 }
