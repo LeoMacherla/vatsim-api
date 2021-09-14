@@ -2,10 +2,10 @@
 	"name": "vatsim-api",
 	"version": "1.0.1",
 	"description": "A wrapper around the VATSIM API",
-	"main": "index.js",
+	"main": "main.js",
 	"type": "module",
 	"scripts": {
-		"start": "node index.js"
+		"start": "node main.js"
 	},
 	"keywords": [
 		"VATSIM",
