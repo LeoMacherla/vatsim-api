@@ -25,7 +25,7 @@ const getAllData = async () => {
  * @returns an array of pilots.
  */
 const getPilots = async () => {
-  return await fetchData().pilots
+  return (await fetchData()).pilots
 }
 
 
