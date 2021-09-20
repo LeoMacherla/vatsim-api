@@ -1,6 +1,6 @@
 {
 	"name": "vatsim-api",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A wrapper around the VATSIM API",
 	"main": "index.js",
 	"type": "module",
